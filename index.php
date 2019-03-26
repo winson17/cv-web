@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
     <title>AU Winson</title>
 
@@ -43,7 +44,7 @@
 			<a href="#contact" class="js-scrollTo">Contact</a>
 			<a href="https://www.facebook.com/winson.au.71?ref=bookmarks"><i class="fa fa-facebook"></i></a>
 			<a href="https://twitter.com/Winsonau77"><i class="fa fa-twitter"></i></a>
-			<a href="https://www.linkedin.com/in/winson-au"><i class="fa fa-linkedin-in"></i></a>
+			<a href="https://www.linkedin.com/in/winson-au"><i class="fab fa-linkedin-in"></i></a>
 		</div>
 
 		<!-- Menu button -->
