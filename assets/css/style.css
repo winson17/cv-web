@@ -5,7 +5,7 @@
  * Project Name: NYC Design
  * Version: 1.0
  * Date: 04-20-2014
- * URL: 
+ * URL:
  */
 
 
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 .menu a > i {
 	float: left;
 	display: inline-block;
-	vertical-align: middle; 
+	vertical-align: middle;
 	text-align: left;
 	width: 25px;
 	font-size: 14px;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-position: center center;
 	min-height: 700px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service .text {
-	color: #767676
+	color: #76767;
 }
 
 /* Testimonials Wrap */
@@ -441,7 +441,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   position: relative;
   overflow: hidden;
-  background-color: #2f2f2f;
+  /* background-color: #2f2f2f; */
   -webkit-transition: background-color 0.4s;
   -moz-transition: background-color 0.4s;
   -o-transition: background-color 0.4s;
@@ -457,7 +457,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-transition: opacity 0.4s;
   -o-transition: opacity 0.4s;
   transition: opacity 0.4s;
-  
+
 }
 
 .project:hover .photo-wrapper {
