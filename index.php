@@ -41,9 +41,9 @@
       <a href="#hobbies" class="js-scrollTo">Hobbies</a>
 			<a href="#services" class="js-scrollTo">Habilities</a>
 			<a href="#contact" class="js-scrollTo">Contact</a>
-			<a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a>
-			<a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
-			<a href="#"><i class="fa fa-envelope"></i></a>
+			<a href="https://https://www.facebook.com/winson.au.71"><i class="fa fa-facebook"></i></a>
+			<a href="https://twitter.com/Winsonau77"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.linkedin.com/in/winson-au"><i class="fab fa-linkedin-in"></i></a>
 		</div>
 
 		<!-- Menu button -->
